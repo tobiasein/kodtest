@@ -42,4 +42,4 @@ function clearDiv(div) {
     }
 }
 
-export default WordCounter
+
